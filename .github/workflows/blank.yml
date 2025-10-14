@@ -9,7 +9,6 @@ jobs:
   update-readme:
     name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
-    # This is the new part we are adding to give permission
     permissions:
       contents: write
     steps:
@@ -17,4 +16,5 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # This is the line we changed to use your new secure token
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
