@@ -9,6 +9,9 @@ jobs:
   update-readme:
     name: Update Readme with Waka Stats
     runs-on: ubuntu-latest
+    # This is the new part we are adding to give permission
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: anmol098/waka-readme-stats@master
