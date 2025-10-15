@@ -1,24 +1,17 @@
-name: Waka Readme
+name: WakaTime Stats
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */4 * * *'
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
 
 jobs:
   update-readme:
-    name: Update Readme with Waka Stats
+    name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v3
-      # This is the NEW part that will fix the silent save error
-      - name: Configure Git
-        run: |
-          git config --global user.name "Ranjikutti"
-          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-      - uses: anmol098/waka-readme-stats@v4
+      - uses: athul/waka-readme@master # <-- THIS IS THE NEW, BETTER ACTION
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }} # Use your powerful token
