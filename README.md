@@ -22,6 +22,8 @@ I'm a B.Tech student at Vel Tech who loves building things that solve real-world
 * [LinkedIn](https://www.linkedin.com/in/ranjith-j-6730b1272/)
 
 ---
+[![Ranjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjikutti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Ranjikutti)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-42%20mins-blue)
 
