@@ -13,8 +13,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@v4 # <-- THIS IS THE ONLY CHANGE
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # This is the line we changed to use your new secure token
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
