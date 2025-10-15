@@ -22,5 +22,6 @@ I'm a B.Tech student at Vel Tech who loves building things that solve real-world
 * [LinkedIn](https://www.linkedin.com/in/ranjith-j-6730b1272/)
 
 ---
-
+<!--START_SECTION:waka-->
 ### 📊 My WakaTime Stats
+<!--END_SECTION:waka-->
