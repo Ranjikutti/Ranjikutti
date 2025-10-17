@@ -19,7 +19,7 @@ I'm a B.Tech student at Vel Tech who loves building things that solve real-world
 
 **🔗 Connect with me:**
 * [My Portfolio](https://ranjith-portfolio-2123f.web.app/)
-* [LinkedIn](www.linkedin.com/in/ranjith-j-835ab0343)
+* [LinkedIn](https://www.linkedin.com/in/ranjith-j-835ab0343/)
 
 ---
 [![Ranjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjikutti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Ranjikutti)
