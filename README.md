@@ -25,7 +25,7 @@ I'm a B.Tech student at Vel Tech who loves building things that solve real-world
 [![Ranjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjikutti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Ranjikutti)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%201%20min-blue)
 
 **🐱 My GitHub Data** 
 
@@ -66,19 +66,21 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 1 min          █████████████████████████   98.80 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+JavaScript               2 hrs 28 mins       ███████████████████████░░   91.25 % 
+CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                33 mins             ██████████████░░░░░░░░░░░   54.23 % 
-event-website            28 mins             ███████████░░░░░░░░░░░░░░   45.77 % 
+portfolio                2 hrs 11 mins       ████████████████████░░░░░   80.75 % 
+event-website            31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+Windows                  2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,5 +96,5 @@ JavaScript               2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ranjikutti/Ranjikutti/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2025 20:10:39 UTC
+ Last Updated on 17/10/2025 00:43:40 UTC
 <!--END_SECTION:waka-->
