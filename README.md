@@ -25,7 +25,7 @@ I'm a B.Tech student at Vel Tech who loves building things that solve real-world
 [![Ranjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjikutti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Ranjikutti)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%209%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -96,5 +96,5 @@ JavaScript               2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ranjikutti/Ranjikutti/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2025 16:09:49 UTC
+ Last Updated on 19/10/2025 20:09:58 UTC
 <!--END_SECTION:waka-->
