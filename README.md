@@ -31,11 +31,11 @@ I'm a B.Tech student at Vel Tech who loves building things that solve real-world
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 41 Contributions in the Year 2025
+> 🏆 42 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -96,5 +96,5 @@ JavaScript               2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ranjikutti/Ranjikutti/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2025 10:46:40 UTC
+ Last Updated on 20/10/2025 12:18:51 UTC
 <!--END_SECTION:waka-->
