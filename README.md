@@ -25,7 +25,7 @@ I'm a B.Tech student at Vel Tech who loves building things that solve real-world
 [![Ranjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjikutti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Ranjikutti)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2026%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -66,20 +66,22 @@ Sunday                   17 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 54 mins        ██████████████████░░░░░░░   73.78 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Python                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Git Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Python                   33 mins             ████████████░░░░░░░░░░░░░   47.88 % 
+Git Config               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+JavaScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+CSS                      10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-event-website            2 hrs 9 mins        █████████████████████░░░░   83.69 % 
-EmoGuard_Sentinel        25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+resume_filter            44 mins             ████████████████░░░░░░░░░   63.06 % 
+EmoGuard_Sentinel        25 mins             █████████░░░░░░░░░░░░░░░░   35.96 % 
+event-website            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +98,5 @@ JavaScript               2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ranjikutti/Ranjikutti/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2025 20:10:06 UTC
+ Last Updated on 27/10/2025 00:50:04 UTC
 <!--END_SECTION:waka-->
