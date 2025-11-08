@@ -25,7 +25,7 @@ I'm a B.Tech student at Vel Tech who loves building things that solve real-world
 [![Ranjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjikutti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Ranjikutti)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2048%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -66,16 +66,19 @@ Sunday                   17 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 12 mins       ████████████████████████░   96.12 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+veltech-mentoring-portal 1 hr 23 mins        ███████████████░░░░░░░░░░   60.37 % 
+frontend                 54 mins             ██████████░░░░░░░░░░░░░░░   39.63 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +95,5 @@ Python                   2 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ranjikutti/Ranjikutti/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2025 20:11:09 UTC
+ Last Updated on 08/11/2025 00:43:11 UTC
 <!--END_SECTION:waka-->
