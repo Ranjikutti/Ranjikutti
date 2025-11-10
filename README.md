@@ -25,13 +25,13 @@ I'm a B.Tech student at Vel Tech who loves building things that solve real-world
 [![Ranjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjikutti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Ranjikutti)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%202%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 70 Contributions in the Year 2025
+> 🏆 80 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,21 +42,21 @@ I'm a B.Tech student at Vel Tech who loves building things that solve real-world
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-🌆 Daytime                27 commits          ████████░░░░░░░░░░░░░░░░░   32.93 % 
-🌃 Evening                38 commits          ████████████░░░░░░░░░░░░░   46.34 % 
-🌙 Night                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+🌆 Daytime                27 commits          ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+🌃 Evening                40 commits          ███████████░░░░░░░░░░░░░░   43.48 % 
+🌙 Night                  18 commits          █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Tuesday                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Wednesday                28 commits          █████████░░░░░░░░░░░░░░░░   34.15 % 
-Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Saturday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Sunday                   28 commits          █████████░░░░░░░░░░░░░░░░   34.15 % 
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Tuesday                  12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Wednesday                28 commits          ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Saturday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Sunday                   28 commits          ████████░░░░░░░░░░░░░░░░░   30.43 % 
 ```
 
 
@@ -93,5 +93,5 @@ Python                   2 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ranjikutti/Ranjikutti/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2025 16:12:39 UTC
+ Last Updated on 10/11/2025 20:12:05 UTC
 <!--END_SECTION:waka-->
