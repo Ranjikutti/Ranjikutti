@@ -25,7 +25,7 @@ I'm a B.Tech student at Vel Tech who loves building things that solve real-world
 [![Ranjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjikutti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Ranjikutti)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -66,17 +66,17 @@ Sunday                   28 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               10 hrs 47 mins      ███████████████████░░░░░░   74.14 % 
-Java                     2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+JavaScript               10 hrs 57 mins      ███████████████████░░░░░░   74.44 % 
+Java                     2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,5 +93,5 @@ Python                   2 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ranjikutti/Ranjikutti/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2025 20:11:40 UTC
+ Last Updated on 13/11/2025 00:46:14 UTC
 <!--END_SECTION:waka-->
